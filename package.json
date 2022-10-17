@@ -11,7 +11,8 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^3.0.3",
-    "nth-check": ">=2.0.1"
+    "nth-check": ">=2.0.1",
+    "got": ">=11.8.5"
   },
   "homepage": ".",
   "scripts": {
@@ -41,6 +42,7 @@
   },
   "devDependencies": {
     "electron": "^21.1.1",
-    "nth-check": ">=2.0.1"
+    "nth-check": ">=2.0.1",
+    "got": ">=11.8.5"
   }
 }
