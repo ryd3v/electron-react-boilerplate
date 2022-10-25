@@ -1,8 +1,5 @@
-# Electron React App
+# Study Buddy App
 
-For live reload development
+When you click the change topic button, a new random cyber security topic is selected and shown.
 
-2 terminals,
-
-1. npm run serve
-2. npm start
+![](Screenshot.png)
