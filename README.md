@@ -1,5 +1,6 @@
-# Study Buddy App
+# Electron React Boilerplate
 
-When you click the change topic button, a new random cyber security topic is selected and shown.
+2 terminals for development
 
-![](Screenshot.png)
+1. yarn dev
+2. yarn electron
