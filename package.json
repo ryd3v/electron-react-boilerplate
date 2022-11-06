@@ -19,7 +19,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^3.0.3"
+    "web-vitals": "^3.0.4"
   },
   "main": "public/electron.js",
   "homepage": "./",
@@ -56,14 +56,14 @@
     ]
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.12",
-    "electron": "^21.2.0",
+    "autoprefixer": "^10.4.13",
+    "electron": "^21.2.2",
     "electron-builder": "^23.6.0",
     "electron-compile": "^6.4.4",
     "got": ">=12.5.2",
     "nth-check": ">=2.1.1",
     "postcss": "^8.4.18",
-    "tailwindcss": "^3.2.1"
+    "tailwindcss": "^3.2.2"
   },
   "build": {
     "productName": "boilerplate",
