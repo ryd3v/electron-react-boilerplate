@@ -39,7 +39,7 @@ const template = [
         label: 'About',
         click: async () => {
           const { shell } = require('electron');
-          await shell.openExternal('https://ryd3v.rocks/');
+          await shell.openExternal('https://ryd3v.com');
         },
       },
     ],

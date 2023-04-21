@@ -28,5 +28,5 @@ app.on('activate', () => {
     createWindow();
   }
 });
-app.setName('Study Buddy');
+app.setName('Boilerplate');
 Menu.setApplicationMenu(menu);
